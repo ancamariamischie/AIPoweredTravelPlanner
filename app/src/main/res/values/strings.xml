@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AIPoweredTravelPlanner</string>
+    <string name="search_bar_placeholder">What\'s your next destination? 😊</string>
+    <string name="search_bar_placeholder_time">Number of days</string>
+    <string name="details_destinations">Attractions:</string>
+    <string name="details_activities">Itinerary:</string>
+    <string name="home_error">Something went wrong. Please try again.</string>
+    <string name="home_empty">Start searching for your best travel itinerary ✨</string>
+    <string name="home_empty_suggestions">We couldn\'t find any travel itineraries for your search.</string>
+    <string name="suggestions_title">Suggested Travel Itineraries</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="submit">Discover</string>
+    <string name="ok">OK</string>
+    <string name="title">Dream. Plan. Travel.</string>
+    <string name="empty_inputs_error">Please enter a destination and a number of days.</string>
+</resources>
